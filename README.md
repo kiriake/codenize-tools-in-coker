@@ -1,5 +1,8 @@
 # codenize-tools-in-docker
 
+![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/kiriake/codenize-tools.svg)
+![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/kiriake/codenize-tools.svg)
+
 ## Settings
 
 ### AWS credentials
