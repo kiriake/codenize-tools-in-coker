@@ -3,7 +3,7 @@ version: '3'
 services:
 
   codenize-tools:
-    build: .
+    image: kiriake/codenize-tools
     environment:
       - AWS_ACCESS_KEY_ID
       - AWS_SECRET_ACCESS_KEY
