@@ -9,5 +9,5 @@ services:
       - AWS_SECRET_ACCESS_KEY
       - AWS_REGION
     volumes:
-      - .:/src
+      - ${PWD}:/src
     working_dir: /src
