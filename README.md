@@ -27,7 +27,7 @@ And reload rc file.
 $ kelbim -v
 kelbim 0.3.1
 
-$ piculet -e -o Groupfile
+$ piculet -e > Groupfile
 Export SecurityGroup to `Groupfile`
 
 etc...
