@@ -13,7 +13,7 @@ Otherwise change to a directory where .envrc is valid.
 ### Add .${SHELL}rc
 
 ```sh
-COMPOSE_FILE=~/git/codenize-tools-in-docker/docker-compose.yaml
+COMPOSE_FILE=/Users/kiriake/git/codenize-tools-in-docker/docker-compose.yaml
 alias kelbim='docker-compose -f $COMPOSE_FILE run --rm codenize-tools kelbim'
 alias piculet='docker-compose -f $COMPOSE_FILE run --rm codenize-tools piculet'
 alias roadwork='docker-compose -f $COMPOSE_FILE run --rm codenize-tools roadwork'
